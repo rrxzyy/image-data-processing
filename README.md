@@ -1,4 +1,4 @@
-<img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=rrxzyy.rrxzyy"/>
+<img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=rrxzyy.image-data-processing"/>
 
 # Image Data Processing
 
