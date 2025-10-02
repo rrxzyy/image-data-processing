@@ -1,6 +1,6 @@
-# rrxzyy - Jupyter Book Repository
+# Introduction
 
-Welcome to the **My Jupyter NoteBook - Machine Learning & Data Analysis Portfolio** — an interactive documentation built with _Jupyter Book_ that showcases experiments, projects, and learning materials in **machine learning**, **computer vision**, and **data analysis**.
+Hi i'm **faqih bahreisy** aka **rrxzyy** Welcome to **My Jupyter NoteBook - Machine Learning & Data Analysis Page** — an interactive documentation built with _Jupyter Book_ that showcases experiments, projects, and learning materials in **machine learning**, **computer vision**, and **data analysis**.
 
 This website is designed as a learning resource, an experimentation space, a personal portfolio, and a reference for anyone interested in exploring both the fundamentals and advanced practices of data science and artificial intelligence.
 
@@ -22,10 +22,6 @@ This website is designed as a learning resource, an experimentation space, a per
 - **Enthusiasts** interested in combining theory, code, and visualization into one interactive documentation
 
 ---
-
-## 📚 Why _Jupyter Book_
-
-With _Jupyter Book_, each material integrates **narrative, code, and visual output** into a seamless flow. Concepts can be practiced directly, experiments can be visualized instantly, and the learning experience becomes more engaging and easier to follow ste
 
 ```{tableofcontents}
 
